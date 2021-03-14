@@ -5,4 +5,7 @@ class Node{
 
 class Suwon{
     int id;
+    int password;
+    int password22;
+    int password33;
 };
