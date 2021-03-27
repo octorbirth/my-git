@@ -2,4 +2,5 @@
 
 int main(){
     printf("After Push, Not Merged")
+    printf("222 After Commit, Not push");
 }
