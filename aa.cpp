@@ -6,8 +6,6 @@ int test(){
     printf("==============");
 }
 
-aa
-
 int main(){
     Suwon suwon;
     printf("Test");
@@ -29,4 +27,3 @@ int main(){
     printf("Test3");
     printf("Test4");
 }
-
