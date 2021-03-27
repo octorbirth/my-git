@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-    printf("cccc");
+    printf("After Push, Not Merged")
 }
